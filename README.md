@@ -4,4 +4,4 @@ Implementations of neural networks with usages of algorithms for shortest distan
 
 Algo used = Dijkstra
 
-Further explaination in [DS TECH](DS TECH 2.pdf)
+Further explaination in DS TECH 2.
